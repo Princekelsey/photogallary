@@ -1,0 +1,25 @@
+body{
+	padding-top: 70px;
+
+}
+
+.jumbotron{
+	background-color: rgba(0, 68, 102,0.2);
+	color: #2c3e50;
+	text-align: center;
+
+}
+
+.navbar-brand{
+	color: white;	
+}
+
+.navbar-dark{
+	background-color :#004466;
+	color: white;
+}
+
+.nav-link{
+	color: white !important;
+}
+
